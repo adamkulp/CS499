@@ -26,3 +26,12 @@ science degree. Feel free to take a look around!
 
 ```
 
+```markdown
+# Notable projects to take a look at
+
+- **Serpent.Py** - a snake type game 
+- **saletax.java** - a calculator program that can take user input or a file to calculate sales and duty taxes
+- **untitled2.ipynb** - a jupiter notebook file that utilizes dash and pandaframes to populate data from a MongoDB database 
+
+```
+
