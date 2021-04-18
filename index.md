@@ -1,8 +1,7 @@
 ## Welcome To Adam Kulp's Project Repository
 
-You can use the [editor on GitHub](https://github.com/adamkulp/CS499/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site contains all current and past projects that have been completed or are in the process of being completed while attending school for my bachelors of computer
+science degree. Feel free to take a look around!
 
 ### Markdown
 
