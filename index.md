@@ -3,6 +3,9 @@
 This site contains all current and past projects that have been completed or are in the process of being completed while attending school for my bachelors of computer
 science degree. Feel free to take a look around!
 
+![image](https://user-images.githubusercontent.com/73432419/115153688-4d008780-a045-11eb-92f2-12b73a744f0f.png)
+
+
 
 
 ```markdown
