@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Adam Kulp's Collection of Coding Projects!
 
 You can use the [editor on GitHub](https://github.com/adamkulp/CS499/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
